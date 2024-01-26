@@ -6,7 +6,7 @@
 | ![가상민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![강승현](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김채원](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이소영B](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최장원](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [가상민]((https://github.com/3minka))             |            [강승현](https://github.com/UpstageAILab)             |            [김채원](https://github.com/UpstageAILab)             |            [이소영B](https://github.com/UpstageAILab)             |            [최장원](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|                            팀장, Missing values, outlier detection, modeling                             |                            DataEDA_modeling                             |                            BaseLine_modeling_EDA                             |                            Tree_Linear_Model                             |                            total_EDA_other_Data_Modeling                             |
 
 ## 1. Competiton Info
 
